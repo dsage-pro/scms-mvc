@@ -1,0 +1,10 @@
+{
+    "name": "chibueze/scms",
+    "description": "A web-based school management system",
+    "autoload": {
+        "psr-4": {
+            "scms\\": "./"
+        }
+    },
+    "require": {}
+}
